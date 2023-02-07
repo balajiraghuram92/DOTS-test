@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{74E00A04-3015-0B96-3441-9EF5A3050EBD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Git/unity/Editor/Src/BuildPipeline/BuildTargetPlatformSpecific.cpp">
+    <Files>
+      <File FileName="Assets/Scripts/SheepController.cs" Line="16" Column="10" />
+      <File FileName="../../Desktop/Git/unity/Editor/Src/BuildPipeline/BuildTargetPlatformSpecific.cpp" Line="1727" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dots-Test" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SheepManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f8a301e-fa3f-4f8f-a2ce-60089c2867cf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
