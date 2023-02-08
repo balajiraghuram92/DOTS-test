@@ -46,7 +46,7 @@ public partial struct ECSSystem : ISystem
 
             foreach (var entity in instances)
             {
-                var position = (random.NextFloat3() - new float3(0.5f, 0, 0.5f)) * 20;
+                var position = new float3(random.NextFloat(-48,48), 0, random.NextFloat(-28, 28));
 
                 // Get a TransformAspect instance wrapping the entity.
                 var transform = SystemAPI.GetAspectRW<TransformAspect>(entity);

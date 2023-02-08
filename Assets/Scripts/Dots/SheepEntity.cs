@@ -7,6 +7,7 @@ using Unity.Entities;
 public class SheepEntityAuthoring : MonoBehaviour
 {
     public int id = 1;
+    public int movementSpeed = 1;
 
     public class Baker : Baker<SheepEntityAuthoring>
     {

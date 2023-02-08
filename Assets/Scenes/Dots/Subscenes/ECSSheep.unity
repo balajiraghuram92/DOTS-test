@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311938, g: 0.38074005, b: 0.35872707, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731725, g: 0.1341475, b: 0.121078506, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 1945515339}
   - component: {fileID: 1945515338}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: SheepManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,8 +152,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 913e765f6f8f8204d9e6d76936be026b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sheepPrefab: {fileID: 8463101183969023941, guid: 11c29a3debc3eca469244eab79400024, type: 3}
-  sheepCount: 5
+  sheepPrefab: {fileID: 8463101183969023941, guid: 11c29a3debc3eca469244eab79400024,
+    type: 3}
+  sheepCount: 10000
 --- !u!4 &1945515339
 Transform:
   m_ObjectHideFlags: 0

@@ -7,7 +7,7 @@ using Unity.Jobs;
 public class SheepManager : MonoBehaviour
 { 
     public GameObject sheepPrefab;
-    const int numsheep = 500; 
+    public int numsheep = 500; 
     public Transform[] sheepList;
 
     public void Start()
