@@ -149,10 +149,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1945515337}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42465ae9f8adf194cae579ffaf7668f8, type: 3}
+  m_Script: {fileID: 11500000, guid: 913e765f6f8f8204d9e6d76936be026b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sheepPrefab: {fileID: 8463101183969023941, guid: 11c29a3debc3eca469244eab79400024, type: 3}
+  sheepCount: 5
 --- !u!4 &1945515339
 Transform:
   m_ObjectHideFlags: 0
